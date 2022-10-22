@@ -1,4 +1,4 @@
-# Mark-13: Palindrome birthday
+# Palindrome birthday
 ## About
 - User has to select birthday date.
 - Results displayed as if he/she was born on a palindrome day or not.
